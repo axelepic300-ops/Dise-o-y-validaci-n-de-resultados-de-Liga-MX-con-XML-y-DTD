@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE liga SYSTEM "../dtd/resultados.dtd">
+<liga nombre="Liga MX" temporada="2026-2027">
+  <jornada numero="10" fecha="2026-09-27" torneo="Apertura 2026">
+    <partido id="P001" fecha="2026-09-27" estado="finalizado" fuente="https://www.espn.com.mx/futbol/estadisticas/_/juegoId/401876958">
+      <equipoLocal>Pumas UNAM</equipoLocal>
+      <marcador>
+        <golesLocal>2</golesLocal>
+        <golesVisitante>3</golesVisitante>
+      </marcador>
+      <estadio>Estadio Olímpico Universitario</estadio>
+      <estadisticas>
+        <local>
+          <posesion>54.3</posesion>
+          <tiros>15</tiros>
+          <tirosPuerta>6</tirosPuerta>
+          <faltas>12</faltas>
+          <tirosEsquina>11</tirosEsquina>
+        </local>
+        <visitante>
+          <posesion>45.7</posesion>
+          <tiros>11</tiros>
+          <tirosPuerta>7</tirosPuerta>
+          <faltas>10</faltas>
+          <tirosEsquina>2</tirosEsquina>
+        </visitante>
+      </estadisticas>
+    </partido>
+    <partido id="P002" fecha="2026-09-27" estado="finalizado" fuente="https://www.espn.com.mx/futbol/estadisticas/_/juegoId/401876957">
+      <equipoLocal>León</equipoLocal>
+      <equipoVisitante>FC Juárez</equipoVisitante>
+      <marcador>
+        <golesLocal>2</golesLocal>
+        <golesVisitante>1</golesVisitante>
+      </marcador>
+      <estadio>Estadio León</estadio>
+      <estadisticas>
+        <local>
+          <posesion>55.7</posesion>
+          <tiros>7</tiros>
+          <tirosPuerta>3</tirosPuerta>
+          <faltas>14</faltas>
+          <tirosEsquina>1</tirosEsquina>
+        </local>
+        <visitante>
+          <posesion>44.3</posesion>
+          <tiros>9</tiros>
+          <tirosPuerta>1</tirosPuerta>
+          <faltas>14</faltas>
+          <tirosEsquina>4</tirosEsquina>
+        </visitante>
+      </estadisticas>
+    </partido>
+    <partido id="P003" fecha="2026-09-27" estado="finalizado" fuente="https://www.espn.com.mx/futbol/estadisticas/_/juegoId/401876956">
+      <equipoLocal>Necaxa</equipoLocal>
+      <equipoVisitante>América</equipoVisitante>
+      <marcador>
+        <golesLocal>2</golesLocal>
+        <golesVisitante>4</golesVisitante>
+      </marcador>
+      <estadio>Estadio Victoria</estadio>
+      <estadisticas>
+        <local>
+          <posesion>53.3</posesion>
+          <tiros>15</tiros>
+          <tirosPuerta>6</tirosPuerta>
+          <faltas>16</faltas>
+          <tirosEsquina>3</tirosEsquina>
+        </local>
+        <visitante>
+          <posesion>46.7</posesion>
+          <tiros>20</tiros>
+          <tirosPuerta>9</tirosPuerta>
+          <faltas>6</faltas>
+          <tirosEsquina>5</tirosEsquina>
+        </visitante>
+      </estadisticas>
+    </partido>
+  </jornada>
+</liga>
